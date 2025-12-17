@@ -1,0 +1,20 @@
+# Dataset repository (no code)
+
+# OS / editor artefacts
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.bak
+*.log
+
+# Archives (avoid accidental large uploads)
+*.zip
+*.tar
+*.tar.gz
+*.7z
+*.rar
+
+# Notebook checkpoints (if added later)
+.ipynb_checkpoints/
