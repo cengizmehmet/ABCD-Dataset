@@ -96,6 +96,7 @@ Each entry in `configuration_outputs` contains:
     ]
   }
 }
+```
 
 In total, the dataset comprises **over 1,000 raw CSV files** and **fewer than 50 processed JSON files**, which provide a compact, structured representation of the experimental results.
 
