@@ -120,7 +120,7 @@ Email: [REDACTED]
 
 ---
 
-##Related work
+## Related work
 
 - PhD Thesis:
 
@@ -130,7 +130,7 @@ Mehmet CENGIZ, Newcastle University
 
 ---
 
-##Licence
+## Licence
 
 This repository is distributed under the MIT License. Please see the [`LICENSE`](LICENSE) file for details.
 
