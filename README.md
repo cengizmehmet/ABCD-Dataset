@@ -104,19 +104,18 @@ In total, the dataset comprises **over 1,000 raw CSV files** and **fewer than 50
 
 ## Data availability
 
-The full dataset exceeds several hundred gigabytes in uncompressed form and therefore cannot be hosted directly in this repository.
+The full ABCD dataset is archived on Zenodo:
 
-This repository serves as a **documentation and metadata record**, and may include representative samples illustrating the structure of the data.
+- **Zenodo record:** https://zenodo.org/records/18224469  
+- **DOI:** 10.5281/zenodo.18224468  
 
-The complete dataset is stored internally at [REDACTED].
+Due to its size, this GitHub repository serves as a **documentation and metadata record**, and may include representative samples illustrating the structure of the data.
+
+> Note: The Zenodo record is published under embargo and will be made publicly available automatically after the embargo period.
 
 ## Contact
 
-For access requests or further information:
-
-**Mehmet CENGIZ**
-
-Email: [REDACTED]
+For questions or collaboration enquiries, please open an issue in this repository.
 
 ---
 
