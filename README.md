@@ -104,10 +104,15 @@ In total, the dataset comprises **over 1,000 raw CSV files** and **fewer than 50
 
 ## Data availability
 
+Samples are archived at The Newcastle University Data Centre
+
+- **Data Centre record:** https://data.ncl.ac.uk/articles/dataset/Samples_and_metadata_supporting_Architecture-Based_Energy_Consumption_Dataset_/30946337
+- **DOI:** 10.25405/data.ncl.30946337
+
 The full ABCD dataset is archived on Zenodo:
 
 - **Zenodo record:** https://zenodo.org/records/18224469  
-- **DOI:** 10.5281/zenodo.18224468  
+- **DOI:** 10.5281/zenodo.18224468
 
 Due to its size, this GitHub repository serves as a **documentation and metadata record**, and may include representative samples illustrating the structure of the data.
 
